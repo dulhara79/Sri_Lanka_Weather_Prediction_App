@@ -20,28 +20,6 @@ The **Sri Lanka Weather Predictor** is designed to provide accurate weather fore
 
 The project supports predictions for major Sri Lankan cities (e.g., Colombo, Kandy, Galle) and allows users to input custom coordinates for precise forecasting.
 
-## Demo
-
-*To add a demo of the application, deploy the frontend and backend to a hosting platform and add screenshots or a GIF here.*
-
-Example:
-```
-[Demo GIF or Screenshot will be added here]
-```
-
-Live Demo: [Sri Lanka Weather Predictor App](#) *(add your deployment URL when available)*
-
-## Latest Evaluation Results
-
-The most recent model evaluation was conducted on July 10, 2025. The ensemble model continues to demonstrate strong predictive performance across various weather metrics.
-
-Key metrics:
-- Temperature prediction: RMSE < 1.5°C
-- Precipitation prediction: F1 score > 0.82
-- Wind speed prediction: MAE < 1.8 km/h
-
-For a full breakdown of model performance, see the [evaluation report](backend/evaluation_results/evaluation_report_20250710_104138.md).
-
 ## Features
 
 - **Single-Day Prediction**: Get detailed weather predictions for a specific date and city.
